@@ -1,2 +1,2 @@
-# learnML
+# LearnML
 Studying ML
